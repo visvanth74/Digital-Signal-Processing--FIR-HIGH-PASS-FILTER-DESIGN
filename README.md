@@ -77,5 +77,6 @@ title('High Pass Filter using Bartlett Window');
 grid on;
 
 ## OUTPUT:
-
+<img width="696" height="618" alt="image" src="https://github.com/user-attachments/assets/73e7ba93-933c-425e-9fe6-5bffb19356f5" />
 ## RESULT:
+<img width="1280" height="441" alt="image" src="https://github.com/user-attachments/assets/c423e938-4a5b-460d-9508-2a4c76fd2bfa" />
